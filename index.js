@@ -6,7 +6,7 @@ canvas.height = window.innerHeight;
 
 const nums = '0123456789';
 
-const alphabet = katakana + latin + nums;
+const alphabet = nums;
 
 const fontSize = 16;
 const columns = canvas.width/fontSize;
